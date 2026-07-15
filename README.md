@@ -29,4 +29,4 @@ This project was created as part of a mechanical design training task. The Batma
 
 ## Author
 
-**Layal Talal**
+**Layal Aljohani**
