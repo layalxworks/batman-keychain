@@ -25,7 +25,7 @@ This project was created as part of a mechanical design training task. The Batma
 
 ## Preview
 
-![Batman Keychain](preview(2).png)
+![Batman Keychain](preview (2).png)
 
 ## Author
 
